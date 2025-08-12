@@ -1,0 +1,30 @@
+C:\Visual Studio AOL\1\Riadh Ablahad\bin\Debug\net8.0\appsettings.Development.json
+C:\Visual Studio AOL\1\Riadh Ablahad\bin\Debug\net8.0\appsettings.json
+C:\Visual Studio AOL\1\Riadh Ablahad\bin\Debug\net8.0\Riadh Ablahad.staticwebassets.runtime.json
+C:\Visual Studio AOL\1\Riadh Ablahad\bin\Debug\net8.0\Riadh Ablahad.exe
+C:\Visual Studio AOL\1\Riadh Ablahad\bin\Debug\net8.0\Riadh Ablahad.deps.json
+C:\Visual Studio AOL\1\Riadh Ablahad\bin\Debug\net8.0\Riadh Ablahad.runtimeconfig.json
+C:\Visual Studio AOL\1\Riadh Ablahad\bin\Debug\net8.0\Riadh Ablahad.dll
+C:\Visual Studio AOL\1\Riadh Ablahad\bin\Debug\net8.0\Riadh Ablahad.pdb
+C:\Visual Studio AOL\1\Riadh Ablahad\obj\Debug\net8.0\Riadh Ablahad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio AOL\1\Riadh Ablahad\obj\Debug\net8.0\Riadh Ablahad.AssemblyInfoInputs.cache
+C:\Visual Studio AOL\1\Riadh Ablahad\obj\Debug\net8.0\Riadh Ablahad.AssemblyInfo.cs
+C:\Visual Studio AOL\1\Riadh Ablahad\obj\Debug\net8.0\Riadh Ablahad.csproj.CoreCompileInputs.cache
+C:\Visual Studio AOL\1\Riadh Ablahad\obj\Debug\net8.0\Riadh Ablahad.MvcApplicationPartsAssemblyInfo.cache
+C:\Visual Studio AOL\1\Riadh Ablahad\obj\Debug\net8.0\Riadh Ablahad.RazorAssemblyInfo.cache
+C:\Visual Studio AOL\1\Riadh Ablahad\obj\Debug\net8.0\Riadh Ablahad.RazorAssemblyInfo.cs
+C:\Visual Studio AOL\1\Riadh Ablahad\obj\Debug\net8.0\staticwebassets.build.json
+C:\Visual Studio AOL\1\Riadh Ablahad\obj\Debug\net8.0\staticwebassets.development.json
+C:\Visual Studio AOL\1\Riadh Ablahad\obj\Debug\net8.0\staticwebassets\msbuild.Riadh Ablahad.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Visual Studio AOL\1\Riadh Ablahad\obj\Debug\net8.0\staticwebassets\msbuild.build.Riadh Ablahad.props
+C:\Visual Studio AOL\1\Riadh Ablahad\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Riadh Ablahad.props
+C:\Visual Studio AOL\1\Riadh Ablahad\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Riadh Ablahad.props
+C:\Visual Studio AOL\1\Riadh Ablahad\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Visual Studio AOL\1\Riadh Ablahad\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Visual Studio AOL\1\Riadh Ablahad\obj\Debug\net8.0\scopedcss\bundle\Riadh Ablahad.styles.css
+C:\Visual Studio AOL\1\Riadh Ablahad\obj\Debug\net8.0\scopedcss\projectbundle\Riadh Ablahad.bundle.scp.css
+C:\Visual Studio AOL\1\Riadh Ablahad\obj\Debug\net8.0\Riadh Ablahad.dll
+C:\Visual Studio AOL\1\Riadh Ablahad\obj\Debug\net8.0\refint\Riadh Ablahad.dll
+C:\Visual Studio AOL\1\Riadh Ablahad\obj\Debug\net8.0\Riadh Ablahad.pdb
+C:\Visual Studio AOL\1\Riadh Ablahad\obj\Debug\net8.0\Riadh Ablahad.genruntimeconfig.cache
+C:\Visual Studio AOL\1\Riadh Ablahad\obj\Debug\net8.0\ref\Riadh Ablahad.dll

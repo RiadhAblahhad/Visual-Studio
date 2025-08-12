@@ -1,0 +1,25 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+    <header id="page-header">🎵 My Favorite Music Video 🎵</header>
+
+    <div class="video-container">
+        <iframe width="914" height="514" src="https://www.youtube.com/embed/BrnDlRmW5hs?list=RDBrnDlRmW5hs" title="old songs but it&#39;s lofi remix" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+</div>
+<script>
+    // Looping animation on header
+    const header = document.getElementById("page-header");
+
+    let colors = ["#f1c40f", "#e74c3c", "#9b59b6", "#1abc9c"];
+    let i = 0;
+
+    setInterval(() => {
+        header.style.color = colors[i];
+        i = (i + 1) % colors.length;
+    }, 800);
+</script>
